@@ -16,7 +16,7 @@ public class HolaMundo {
      */
     public static void main(String[] args) {
        System.out.println ("¡Hello!"); // All code application logic here
-       
+       System.out.println ("Hola");
     }
     
 }
